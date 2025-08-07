@@ -7,9 +7,11 @@ Housing Price Prediction – Regression Analysis:
 Techniques Used:
     -  Simple Linear Regression (using area)
     -  Multiple Linear Regression (using all relevant features)
+    
  Data Preprocessing:
     - Handled missing values
     - Encoded categorical variables (binary & one-hot)
+
 Libraries:
     - Pandas, NumPy, Matplotlib, Seaborn
     - Scikit-learn
@@ -17,7 +19,8 @@ Libraries:
     - Mean Absolute Error (MAE)
     - Mean Squared Error (MSE)
     - R² Score
-  Outputs:
+    
+ Outputs:
   - Cleaned dataset
   - Regression plots
   - Coefficient interpretation
